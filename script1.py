@@ -1,6 +1,7 @@
 import csv
 from math import sqrt
 
+
 def mean(sum, length):
     return float(sum) / length
 
